@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
 <h3 align="center">I'm trying to learn web development</h3>
 
-- 🔭 I’m currently working on **School Activities, Projects, and Challenges**
+- 🔭 I’m currently working on **School Activities, School Projects, and Challenges**
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
