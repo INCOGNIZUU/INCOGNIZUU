@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
-<h3 align="center">I'm trying to learn web development</h3>
+<h3 align="center">I'm trying to learn Web Development</h3>
 
 - 🏫 I’m currently a **college student (3rd Year) and am doing computer science as my major**
 
 - 🔭 I’m currently working on **School Activities, Projects, and Challenges**
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
+
+- 🤝 I’m looking for help with **Web Development**
 
 - 📫 How to reach me **fajiculayraymondc@gmail.com**
 
