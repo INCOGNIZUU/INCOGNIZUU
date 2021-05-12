@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 📫 How to reach me **fajiculayraymondc@gmail.com**
+- 📫 How to reach me **http://m.me/incognizuu**
 
 - ⚡ Fun fact **I recently realized I suck at games. That's why I'm trying to learn to code so I could suck at it too**
 
