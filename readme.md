@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 I worked as an **Data Encoder**
 
-- 👨🏽‍💻 I worked as an **Photo editor and Layout Designer**
+- 👨🏽‍💻 I worked as an **Photo Editor and Layout Designer**
 
 
 <h3 align="left">Languages and Tools:</h3>
