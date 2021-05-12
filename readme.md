@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fajiculayraymondc@gmail.com**
 
-- ⚡ Fun fact **I suck at games. That's why I'm trying to learn to code so I could suck at it too.**
+- ⚡ Fun fact **I recently realized I suck at games. That's why I'm trying to learn to code so I could suck at it too.**
 
 
 <h3 align="left">Languages and Tools:</h3>
