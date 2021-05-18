@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **Front-End Web Development & Responsive Design**
 
 - 📫 How to reach me **http://m.me/incognizuu**
 
